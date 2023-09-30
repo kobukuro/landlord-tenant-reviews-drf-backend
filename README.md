@@ -1,5 +1,11 @@
 # landlord-tenant-reviews-drf-backend
 
+## Create the virtual environment
+
+```
+poetry env use python
+```
+
 ## Activate the virtual environment
 
 ```
