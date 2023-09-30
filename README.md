@@ -18,6 +18,12 @@ poetry shell
 poetry install
 ```
 
+## Show the dependencies installed in the virtual environment
+
+```
+poetry show
+```
+
 ## Install dependency
 
 ```
