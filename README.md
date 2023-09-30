@@ -12,6 +12,12 @@ poetry env use python
 poetry shell
 ```
 
+## Install all dependencies in the poetry.lock file
+
+```
+poetry install
+```
+
 ## Install dependency
 
 ```
