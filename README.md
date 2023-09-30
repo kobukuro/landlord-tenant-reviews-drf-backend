@@ -6,6 +6,12 @@
 poetry shell
 ```
 
+## Install dependency
+
+```
+poetry add <dependency-name>
+```
+
 ## Export the list of dependencies to a requirements.txt file
 
 ```
