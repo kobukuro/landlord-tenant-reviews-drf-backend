@@ -39,6 +39,6 @@ poetry export -f requirements.txt -o requirements.txt
 ## Run locally
 
 ```
-docker-compose build
-docker-compose up -d
+docker compose build
+docker compose up -d
 ```
