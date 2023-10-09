@@ -42,3 +42,9 @@ poetry export -f requirements.txt -o requirements.txt
 docker compose build
 docker compose up -d
 ```
+
+## Create an app locally
+
+```
+docker compose run --rm app sh -c "cd apps && python ../manage.py startapp <app_name>"
+```
